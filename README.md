@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omarwael234
+- 👋 Hi, I’m Omar
 - 👀 I’m interested in AI 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me learningomar8@gmail.com
