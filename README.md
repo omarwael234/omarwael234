@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omar
-- 👀 I’m interested in AI 
+- 👀 I’m interested in AI, Machine learning, Programming
 - 🌱 I’m currently learning Python
 - 📫 How to reach me learningomar8@gmail.com
 
